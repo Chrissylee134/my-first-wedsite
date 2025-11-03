@@ -1,8 +1,24 @@
 body {
-  background-color: lightblue;
-  font-family: Arial;
+  font-family: Arial, sans-serif;
   text-align: center;
+  background-color: #f0f8ff;
+  color: #333;
+  margin: 20px;
 }
+
 h1 {
-  color: darkblue;
+  color: #0077cc;
 }
+
+a {
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #0077cc;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ff6600;
+}
+
